@@ -1,2 +1,2 @@
 # ResortManagementSystem
-online resort booking 
+online resort booking app 
